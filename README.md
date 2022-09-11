@@ -1,5 +1,8 @@
 # Bearing
 
+![logo](https://user-images.githubusercontent.com/64166392/189528864-40b500ff-a957-45e0-9e9d-731326c9b80e.png)
+
+
 
 
 Have your ever felt overwhelmened and you want to link up with one of you classmate who can help but sadly you don't know they name or even where to find them besides school?
