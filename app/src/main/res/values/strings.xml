@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bearing</string>
+    <string name="note_save_in">note saved in</string>
+    <string name="accept_permission_to_save_note">you need to accept the permission to save notes</string>
+    <string name="anim_one_text">Connect with all your classmates at one place</string>
+    <string name="anim_two_text">Get Involved in your school student life.</string>
+    <string name="text_three">Set goals everyday and go reach them!</string>
+    <string name="already_have_an_account_sign_in"><u>Already have an account Sign In?</u></string>
+    <string name="don_t_have_an_account_sign_up"><u>Don\'t have an account Sign Up?</u></string>
+    <string name="dev_info">
+
+       Developed by Sam Cherilus \n
+
+ \t CONTACT \n
+ \t IG: @bracley.dev \n
+ \t MAIL: cherilussambracley@gmail.com\n
+    </string>
+</resources>

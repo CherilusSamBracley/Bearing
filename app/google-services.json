@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385210289838",
+    "project_id": "shellhacksproject-664fd",
+    "storage_bucket": "shellhacksproject-664fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385210289838:android:aeee36f95fa095a4f3e73f",
+        "android_client_info": {
+          "package_name": "com.example.testapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385210289838-sq7r0gu86u5h0ra5pfo2cbt8npvn0rhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOhSZN-b8w4WHY6jqQv1gevNXUGWwgz9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385210289838-sq7r0gu86u5h0ra5pfo2cbt8npvn0rhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
